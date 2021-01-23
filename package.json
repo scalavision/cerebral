@@ -29,6 +29,7 @@
     "url": "git+https://github.com/cerebral/cerebral.git"
   },
   "dependencies": {
+    "@types/parse5": "^6.0.0",
     "addressbar": "1.0.3",
     "aphrodite": "1.2.0",
     "baobab": "2.4.3",
@@ -144,7 +145,6 @@
     "marksy": "4.0.0",
     "mocha": "^4.1.0",
     "mock-socket": "6.0.4",
-    "node-sass": "4.5.3",
     "npm-run-all": "4.0.2",
     "nyc": "^10.3.2",
     "preact": "8.1.0",
